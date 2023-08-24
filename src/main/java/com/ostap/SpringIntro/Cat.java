@@ -15,6 +15,14 @@ public class Cat implements Pet{
         System.out.println("Cat bean is crated");
     }
 
+    private void init(){
+        System.out.println("Class Cat: init method");
+    }
+
+    private void destroy(){
+        System.out.println("Class Cat: destroy method");
+    }
+
     @Override
     public void say() {
         System.out.println("mew-mew");
