@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    <context:property-placeholder location="classpath:app.properties"/>
+
+    <bean id="cat"
+          class="com.ostap.SpringIntro.Cat">
+        <property name="name" value="${cat.name}"/>
+    </bean>
+
+    <bean id="dog"
+          class="com.ostap.SpringIntro.Dog">
+        <property name="name" value="${dog.name}"/>
+    </bean>
+
+    <bean id="person"
+          class="com.ostap.SpringIntro.Person">
+<!--        <constructor-arg ref="cat"/>-->
+        <property name="pet" ref="${person.pet}"/>
+        <property name="surname" value="${person.surname}"/>
+        <property name="age" value="${person.age}"/>
+
+    </bean>
+</beans>
