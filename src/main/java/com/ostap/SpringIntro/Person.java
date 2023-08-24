@@ -1,7 +1,12 @@
 package com.ostap.SpringIntro;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component("personBean")
 public class Person {
-    Pet pet;
+    @Autowired
+    private Pet pet;
 
     public String getSurname() {
         return surname;
@@ -22,8 +27,11 @@ public class Person {
     }
 
     private String surname;
-    private  int age;
-//    public Person(Pet pet){
+    private int age;
+
+//    @Autowired
+//    public Person(Pet pet) {
+//        System.out.println("Person bean is created");
 //        this.pet = pet;
 //    }
 
@@ -32,7 +40,7 @@ public class Person {
         System.out.println("Person bean is created");
     }
 
-    public void callYourPet(){
+    public void callYourPet() {
         System.out.println("Come here - " + pet.getName());
         pet.say();
     }

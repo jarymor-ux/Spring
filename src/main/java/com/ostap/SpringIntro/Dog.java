@@ -1,12 +1,13 @@
 package com.ostap.SpringIntro;
 
-
-public class Dog implements Pet{
+public class Dog implements Pet {
     private String name;
+
     @Override
     public String getName() {
         return name;
     }
+
     @Override
     public void setName(String name) {
         this.name = name;
@@ -16,15 +17,15 @@ public class Dog implements Pet{
         System.out.println("Dog bean is created");
     }
 
-    private void init(){
+    private void init() {
         System.out.println("Class Dog: init method");
     }
 
-    private void destroy(){
+    private void destroy() {
         System.out.println("Class Dog: destroy method");
     }
 
-    public void say(){
+    public void say() {
         System.out.println("bow-wow");
     }
 }
