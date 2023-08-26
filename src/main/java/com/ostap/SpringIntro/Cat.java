@@ -1,9 +1,11 @@
 package com.ostap.SpringIntro;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
-@Component("catBean")
+//@Component("catBean")
 public class Cat implements Pet{
+    @Value("${pet.name}")
     private String name;
     @Override
     public String getName() {

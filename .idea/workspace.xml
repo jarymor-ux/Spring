@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a191025d-2bd1-4655-a7c7-3b2335966b20" name="Changes" comment="Spring learn.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ConfigWithAnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Main6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ScopeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ConfigWithAnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ConfigWithAnotations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/AppContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AppContext3.xml" afterDir="false" />
@@ -84,6 +88,12 @@
       <workItem from="1692898730674" duration="455000" />
       <workItem from="1692899237196" duration="1965000" />
       <workItem from="1692906740888" duration="2288000" />
+      <workItem from="1692914760259" duration="1157000" />
+      <workItem from="1692961870482" duration="1260000" />
+      <workItem from="1692966895964" duration="908000" />
+      <workItem from="1693054534054" duration="1370000" />
+      <workItem from="1693063040779" duration="478000" />
+      <workItem from="1693063676883" duration="559000" />
     </task>
     <task id="LOCAL-00001" summary="Spring learn.">
       <option name="closed" value="true" />
@@ -101,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692906976529</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Spring learn.">
+      <option name="closed" value="true" />
+      <created>1692914925751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692914925751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
