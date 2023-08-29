@@ -16,13 +16,13 @@ public class Main6 {
         System.out.println(person.getAge());
         System.out.println(person.getSurname());
 
-
+        
         person.callYourPet();
 //        Pet cat1 = context.getBean("catBean", Pet.class);
 //        Pet cat2 = context.getBean("catBean", Pet.class);
 
 
-
+        
 
         context.close();
     }

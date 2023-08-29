@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a191025d-2bd1-4655-a7c7-3b2335966b20" name="Changes" comment="Spring learn.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ScopeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ConfigWithAnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/ConfigWithAnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/SpringIntro/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/AppContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/AppContext3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/app.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/app.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -42,23 +37,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ostap/IdeaProjects/SpringCource/src/main/resources&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;ac4268ef435e9bc982ed13ea71ec6596&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/home/ostap/IdeaProjects/SpringCource",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "ac4268ef435e9bc982ed13ea71ec6596",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ostap\IdeaProjects\SpringCource\src\main\resources" />
@@ -66,6 +64,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ostap\IdeaProjects\SpringCource" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ostap.SpringIntro.Main6" />
+      <module name="SpringCource" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ostap.SpringIntro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main6" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -94,6 +112,10 @@
       <workItem from="1693054534054" duration="1370000" />
       <workItem from="1693063040779" duration="478000" />
       <workItem from="1693063676883" duration="559000" />
+      <workItem from="1693072140874" duration="36000" />
+      <workItem from="1693088498903" duration="599000" />
+      <workItem from="1693147003098" duration="15000" />
+      <workItem from="1693258419664" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="Spring learn.">
       <option name="closed" value="true" />
@@ -119,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692914925751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Spring learn.">
+      <option name="closed" value="true" />
+      <created>1693072168696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1693072168696</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
