@@ -16,7 +16,7 @@ public class Main2 {
 
         try{
         Session session = factory.getCurrentSession();
-        Employee employee = new Employee("Oleg", "Sidorov", "HR", 700);  
+        Employee employee = new Employee("Eva", "Karg", "HR", 1800);  
         session.beginTransaction();
         session.save(employee);
         // session.getTransaction().commit();
