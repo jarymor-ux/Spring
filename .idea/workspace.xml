@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a191025d-2bd1-4655-a7c7-3b2335966b20" name="Changes" comment="Spring learn.">
-      <change afterPath="$PROJECT_DIR$/sql1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sql2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/packagesearch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/packagesearch.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/hibernate/Entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/hibernate/Entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ostap/hibernate/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ostap/hibernate/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +68,7 @@
       <recent name="C:\Users\Ostap\IdeaProjects\SpringCource\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jarym\IdeaProjects\SpringCource" />
       <recent name="C:\Users\Ostap\IdeaProjects\SpringCource" />
     </key>
   </component>
@@ -123,7 +129,12 @@
       <workItem from="1693673346147" duration="143000" />
       <workItem from="1693687910653" duration="650000" />
       <workItem from="1693741707716" duration="1591000" />
-      <workItem from="1693750060887" duration="398000" />
+      <workItem from="1693750060887" duration="420000" />
+      <workItem from="1693765086937" duration="194000" />
+      <workItem from="1693774512310" duration="16000" />
+      <workItem from="1693787134757" duration="455000" />
+      <workItem from="1693788300858" duration="79000" />
+      <workItem from="1693788458276" duration="109000" />
     </task>
     <task id="LOCAL-00001" summary="Spring learn.">
       <option name="closed" value="true" />
@@ -164,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693744277950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Spring learn.">
+      <created>1693750470690</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1693750470690</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
